@@ -1,4 +1,4 @@
-# 🚀 AI-Based Document Search and Retrieval Assistant
+# 📄 AI-Based Document Search and Retrieval Assistant
 
 Welcome to the **AI-Based Document Search and Retrieval Assistant** project! This tool leverages 🤖 artificial intelligence to enhance document search, extraction, and summarization, providing users with efficient and accurate content retrieval.
 
@@ -27,5 +27,4 @@ Locating relevant documents can be time-consuming due to reliance on **🔍 lite
 ### 🎨 Frontend
 - 💻 **HTML, CSS, JavaScript** - User interface development
 
-🚀 **Get started today and experience the power of AI-driven document search!**
-
+📄 **Get started today and experience the power of AI-driven document search!**

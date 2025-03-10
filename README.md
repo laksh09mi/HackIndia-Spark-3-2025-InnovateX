@@ -28,3 +28,9 @@ Locating relevant documents can be time-consuming due to reliance on **🔍 lite
 - 💻 **HTML, CSS, JavaScript** - User interface development
 
 📄 **Get started today and experience the power of AI-driven document search!**
+
+##Contributors
+1.Lakshimi Pai
+2.Priyadarshini Kamat
+3.Urvi Hegde Dessai
+4.Yukthi Manerkar

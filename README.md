@@ -3,7 +3,7 @@
 Welcome to the **AI-Based Document Search and Retrieval Assistant** project! This tool leverages 🤖 artificial intelligence to enhance document search, extraction, and summarization, providing users with efficient and accurate content retrieval.
 
 ## ❓ Problem Statement
-Locating relevant documents can be time-consuming due to reliance on **🔍 literal keyword searches** and complex file structures. This inefficiency leads to **⏳ reduced productivity** and **⚡ delayed decision-making**. Our AI-powered assistant addresses these challenges by enabling natural language queries, retrieving the most relevant documents, and generating instant summaries.
+Locating relevant documents can be time-consuming due to reliance on  literal keyword searches** and complex file structures. This inefficiency leads to  reduced productivity** and  delayed decision-making**. Our AI-powered assistant addresses these challenges by enabling natural language queries, retrieving the most relevant documents, and generating instant summaries.
 
 ## 🔥 Key Features
 - **📄 PDF Text Extraction:** Extracts text from uploaded PDFs and processes multi-page documents efficiently.

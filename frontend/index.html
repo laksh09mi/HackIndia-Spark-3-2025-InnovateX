@@ -1,1 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI-Based Document Search and Summarization</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>AI-Based Document Search and Summarization</h1>
+        <nav>
+            <ul>
+                <li><a href="#" id="search-tab" class="active">Document Search</a></li>
+                <li><a href="#" id="summary-tab">Document Summarization</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <!-- Document Search Section -->
+        <section id="document-search">
+            <h2>AI-Based Document Search Assistant</h2>
+            <p>Upload a text-based PDF and ask any question.</p>
+
+            <div class="upload-box">
+                <button class="upload-btn">Upload PDF</button>
+                <div class="drop-area">Drop File Here or Click to Upload</div>
+            </div>
+
+            <div class="question-box">
+                <label for="question">Ask a question</label>
+                <input type="text" id="question" placeholder="Type your question here...">
+            </div>
+
+            <div class="buttons">
+                <button class="clear-btn">Clear</button>
+                <button class="submit-btn">Submit</button>
+            </div>
+        </section>
+
+        <!-- Document Summarization Section -->
+        <section id="document-summary" class="hidden">
+            <h2>Document Summarization</h2>
+            <p>Upload a text-based PDF to generate a summary.</p>
+
+            <div class="upload-box">
+                <button class="upload-btn">Upload PDF</button>
+                <div class="drop-area">Drop File Here or Click to Upload</div>
+            </div>
+
+            <div class="answer-box">
+                <label for="summary">Summary</label>
+                <input type="text" id="summary" placeholder="Generated summary will appear here..." disabled>
+            </div>
+
+            <div class="buttons">
+                <button class="clear-btn">Clear</button>
+                <button class="submit-btn">Submit</button>
+            </div>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
 

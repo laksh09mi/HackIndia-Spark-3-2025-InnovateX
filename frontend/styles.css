@@ -1,0 +1,105 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+    text-align: center;
+}
+
+header {
+    background: white;
+    padding: 10px 0;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    border-bottom: 2px solid #ddd;
+}
+
+nav ul li {
+    margin: 0 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+}
+
+nav ul li a.active {
+    border-bottom: 3px solid orange;
+    color: orange;
+}
+
+main {
+    padding: 20px;
+}
+
+.upload-box {
+    border: 2px dashed #aaa;
+    padding: 20px;
+    margin: 20px auto;
+    width: 50%;
+    background: white;
+    border-radius: 10px;
+}
+
+.upload-btn {
+    padding: 10px 15px;
+    border: none;
+    background: lightgray;
+    cursor: pointer;
+}
+
+.drop-area {
+    padding: 20px;
+    color: #777;
+}
+
+.question-box, .answer-box {
+    margin: 20px;
+}
+
+input {
+    width: 60%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.clear-btn, .submit-btn {
+    padding: 10px 20px;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.clear-btn {
+    background: gray;
+    color: white;
+}
+
+.submit-btn {
+    background: orange;
+    color: white;
+}
+
+.hidden {
+    display: none;
+}
